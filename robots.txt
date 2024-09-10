@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eimilene.github.io/sitemap.html.gz
+Sitemap: https://eimilene.github.io/app/sitemap.html.gz
+Sitemap: https://eimilene.github.io/assets/sitemap.html.gz
+Sitemap: https://eimilene.github.io/css/sitemap.html.gz
+Sitemap: https://eimilene.github.io/includes/sitemap.html.gz
+Sitemap: https://eimilene.github.io/item/sitemap.html.gz
+Sitemap: https://eimilene.github.io/src/sitemap.html.gz
